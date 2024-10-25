@@ -578,7 +578,6 @@ input,textarea {
 @media (min-width: 769px) and (max-width: 2048px) {
   .navbar {
     padding: 1.5rem 2.5rem;
-    background-color: green;
   }
 
   .navbar-logo {
